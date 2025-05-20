@@ -89,6 +89,4 @@ in the files below!
 (https://github.com/user-attachments/files/20327470/screen.shots.of.the.project.pdf)
 
 colab link of live map :
-(https://github.com/user-attachments/files/20343261/map_output.zip)
-
-
+https://colab.research.google.com/drive/1v3Pw-IbrO35oBXkf-nZ9puWYCJ7kzCLb?usp=sharing
