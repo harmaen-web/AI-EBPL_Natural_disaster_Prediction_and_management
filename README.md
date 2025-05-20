@@ -1,6 +1,4 @@
-[screen shots of the project.pdf](https://github.com/user-attachments/files/20327470/screen.shots.of.the.project.pdf)
-[screen shots of the project.pdf](https://github.com/user-attachments/files/20327459/screen.shots.of.the.project.pdf)
-[screen shots of the project.pdf](https://github.com/user-attachments/files/20327452/screen.shots.of.the.project.pdf)
+
  AI-Based Natural Disaster Prediction and Visualization
 
 ✅ Features
@@ -53,19 +51,11 @@ Run the code to:
 
 Generate the interactive map
 
-Interact with chatbot[screen shots of the project.pdf[screen shots of the project.pdf](https://github.com/user-attachments/files/20[screenshot of the final phase.pdf](https://github.com/user-attachments/files/20327661/screenshot.of.the.final.phase.pdf)
-327503/screen.shots.of.the.project.pdf)
-](https://github.com/user-attachments/files/20327492/screen.shots.of.the.project.pdf)
-
-
+Interact with chatbot
 Display prediction evaluation
-
 Enter commands like:
-
 flood
-
 predict
-
 exit
 
 ✅ ML Techniques Used
@@ -94,3 +84,5 @@ exit
 
 in the files below!
 
+[screen shots of the project.pdf](https://github.com/user-attachments/files/20327470/screen.shots.of.the.project.pdf)
+colab link of live map :
