@@ -82,7 +82,11 @@ exit
 
 ✅ Demo Video / Screenshots
 
-in the files below!
+in the files below![map_output.zip](https://github.com/user-attachments/files/20343261/map_output.zip)
+
 
 [screen shots of the project.pdf](https://github.com/user-attachments/files/20327470/screen.shots.of.the.project.pdf)
+
 colab link of live map :
+
+[map_output.zip](https://github.com/user-attachments/files/20343281/map_output.zip)
